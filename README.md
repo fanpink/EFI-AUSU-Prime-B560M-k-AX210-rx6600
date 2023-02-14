@@ -1,0 +1,1 @@
+# EFI-AUSU-Prime-B560M-k-AX210-rx6600
