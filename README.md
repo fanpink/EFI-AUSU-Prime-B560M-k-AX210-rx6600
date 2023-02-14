@@ -1,4 +1,5 @@
 # EFI-AUSU-Prime-B560M-k-AX210-rx6600
+## 配置
 --------[ 主板 ]----------------------------------------------------------------------------------
 
   主板型号               华硕 PRIME B560M-K
@@ -49,3 +50,15 @@
   声卡                   AMD HD Audio Controller
 
   声卡                   瑞昱  @ 英特尔 High Definition Audio 控制器
+## EFI
+
+下载在地址 ————————>[EFI](https://github.com/fanpink/EFI-AUSU-Prime-B560M-k-AX210-rx6600/releases/tag/EFI)。
+
+## 简介
+### 12.6和13.2区别
+WiFi驱动不一致，分别使用 AirportItlwm  [v2.2.0-alpha](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.2.0-alpha)对应的版本。
+
+### common版本
+用于在没有独显安装时点亮屏幕。
+能正常点亮，但不能流畅使用。无实用性。
+
